@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "5dfdc04c899be9730d156af7f47d6f26"
+build_time: [1616385817, 820620000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift": [1616385769, 75655897]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": [1616385769, 75767443]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder.swift": [1616385769, 75963584]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder.swift": [1616385769, 76095648]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartError.swift": [1616385769, 76209463]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift": [1616385769, 76351235]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift": [1616385769, 76490247]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift": [1616385769, 76622002]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift": [1616385769, 76987266]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": [1616385769, 77138784]

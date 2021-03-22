@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "c903ed809b15c85c15ee983cecdeb1ff"
+build_time: [1616385835, 235667000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/Exports.swift": [1616385768, 544906650]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/Fluent+Cache.swift": [1616385768, 545034057]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/Fluent+History.swift": [1616385768, 545169167]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/Fluent+Paginate.swift": [1616385768, 545276611]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/Fluent+Sessions.swift": [1616385768, 545394392]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/FluentProvider.swift": [1616385768, 546107341]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/MigrateCommand.swift": [1616385768, 546274627]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/ModelAuthenticatable.swift": [1616385768, 546425487]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/ModelCredentialsAuthenticatable.swift": [1616385768, 546556168]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent/Sources/Fluent/ModelTokenAuthenticatable.swift": [1616385768, 546706163]

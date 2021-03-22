@@ -1,0 +1,4 @@
+module NIOHTTP1 {
+    header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/NIOHTTP1.build/NIOHTTP1-Swift.h"
+    requires objc
+}

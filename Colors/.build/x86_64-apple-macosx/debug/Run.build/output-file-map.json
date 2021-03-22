@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/Run/main.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

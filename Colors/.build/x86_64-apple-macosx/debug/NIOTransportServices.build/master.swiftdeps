@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "3d998f16ee56c47a9612caa2d5f8a9e3"
+build_time: [1616385820, 123310000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOFilterEmptyWritesHandler.swift": [1616385766, 613832176]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSBootstraps.swift": [1616385766, 614028942]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSChannelOptions.swift": [1616385766, 614182273]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSConnectionBootstrap.swift": [1616385766, 614400224]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSConnectionChannel.swift": [1616385766, 645818568]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSErrors.swift": [1616385766, 614850832]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSEventLoop.swift": [1616385766, 615030522]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSEventLoopGroup.swift": [1616385766, 615189429]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSListenerBootstrap.swift": [1616385766, 615310797]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSListenerChannel.swift": [1616385766, 646154882]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/NIOTSNetworkEvents.swift": [1616385766, 615672318]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/SocketAddress+NWEndpoint.swift": [1616385766, 615822037]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/StateManagedChannel.swift": [1616385766, 616889693]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-transport-services/Sources/NIOTransportServices/TCPOptions+SocketChannelOption.swift": [1616385766, 617022019]

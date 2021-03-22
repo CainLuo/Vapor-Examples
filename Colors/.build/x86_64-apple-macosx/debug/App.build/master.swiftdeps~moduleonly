@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "100c65f0a35c3bb9f18fedbc38f7f4b8"
+build_time: [1616385932, 544235000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Controllers/TodoController.swift": [1616384613, 281958037]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Migrations/CreateTodo.swift": [1616384613, 282122510]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Models/Todo.swift": [1616384613, 282355594]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/configure.swift": [1616385924, 901354185]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/routes.swift": [1616384626, 219153415]

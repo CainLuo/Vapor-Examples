@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "c178a97db77b983394bcc054ff3863f6"
+build_time: [1616385812, 787481000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1616385770, 655115481]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1616385770, 655397328]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1616385770, 655690662]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1616385770, 655867467]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1616385770, 656187150]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1616385770, 656334906]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift": [1616385770, 656569284]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1616385770, 657008691]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift": [1616385770, 657242690]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift": [1616385770, 657417289]

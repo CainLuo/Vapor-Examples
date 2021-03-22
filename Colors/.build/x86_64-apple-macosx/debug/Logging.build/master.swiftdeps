@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "341ab460d531e8bd88070283ed160761"
+build_time: [1616385783, 344836000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1616385768, 716633918]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1616385768, 716800128]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1616385768, 717239829]

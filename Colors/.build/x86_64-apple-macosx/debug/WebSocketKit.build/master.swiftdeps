@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "2c703ff77857ca4fb3f867cb83eb8a94"
+build_time: [1616385821, 285374000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1616385769, 406912515]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift": [1616385769, 407358444]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift": [1616385769, 407752350]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1616385769, 407962232]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift": [1616385769, 408337913]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift": [1616385769, 408518513]

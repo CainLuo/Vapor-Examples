@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b158be02051764e6a0797a3aab70fdac"
+build_time: [1616385815, 85776000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ByteBufferBIO.swift": [1616385769, 815620493]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/IdentityVerification.swift": [1616385769, 815817290]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/LinuxCABundle.swift": [1616385769, 815948938]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLClientHandler.swift": [1616385769, 816091453]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLHandler.swift": [1616385769, 816308285]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLServerHandler.swift": [1616385769, 816454079]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/PosixPort.swift": [1616385769, 816591569]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCallbacks.swift": [1616385769, 817155343]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificate.swift": [1616385769, 817534671]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLConnection.swift": [1616385769, 817793421]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLContext.swift": [1616385769, 818027428]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLErrors.swift": [1616385769, 818204133]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLInit.swift": [1616385769, 818432803]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPKCS12Bundle.swift": [1616385769, 818804454]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPrivateKey.swift": [1616385769, 819004667]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPublicKey.swift": [1616385769, 819221112]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SecurityFrameworkCertificateVerification.swift": [1616385769, 819367899]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/TLSConfiguration.swift": [1616385769, 819562691]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/UniversalBootstrapSupport.swift": [1616385769, 819919136]

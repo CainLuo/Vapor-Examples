@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7261bf59387692911756929f947a142a"
+build_time: [1616385828, 973080000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/Exports.swift": [1616385765, 782764879]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresConfiguration.swift": [1616385765, 782890926]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDatabase.swift": [1616385765, 783030385]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/FluentPostgresDriver.swift": [1616385765, 783149325]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresConverterDelegate.swift": [1616385765, 783279247]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresError+Database.swift": [1616385765, 783387019]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/fluent-postgres-driver/Sources/FluentPostgresDriver/PostgresRow+Database.swift": [1616385765, 783493452]

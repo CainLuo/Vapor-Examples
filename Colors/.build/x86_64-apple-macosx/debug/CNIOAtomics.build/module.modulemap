@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+    export *
+}
