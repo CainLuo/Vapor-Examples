@@ -5,29 +5,369 @@ provides-nominal:
 provides-member:
 provides-dynamic-lookup:
 depends-top-level:
+- "=="
+- "Abort"
 - "Application"
+- !private "AssignmentPrecedence"
+- "Color"
+- "EventLoopFuture"
+- "Float"
+- "HTTPStatus"
 - "String"
 - !private "StringLiteralType"
-- !private "TodoController"
 - "routes"
 depends-member:
+- !private ["5Vapor5AbortV", "init"]
+- !private ["5Vapor10AbortErrorP", "init"]
+- !private ["s10AnyKeyPathC", "ascending"]
+- !private ["9FluentKit8AnyModelP", "$blue"]
+- !private ["9FluentKit8AnyModelP", "$green"]
+- !private ["9FluentKit8AnyModelP", "$name"]
+- !private ["9FluentKit8AnyModelP", "$red"]
+- !private ["9FluentKit8AnyModelP", ""]
+- !private ["9FluentKit8AnyModelP", "blue"]
+- !private ["9FluentKit8AnyModelP", "delete"]
+- !private ["9FluentKit8AnyModelP", "find"]
+- !private ["9FluentKit8AnyModelP", "green"]
+- !private ["9FluentKit8AnyModelP", "name"]
+- !private ["9FluentKit8AnyModelP", "query"]
+- !private ["9FluentKit8AnyModelP", "red"]
+- !private ["9FluentKit8AnyModelP", "save"]
+- !private ["9FluentKit11AnyPropertyP", ""]
+- !private ["9FluentKit20AnyQueryablePropertyP", ""]
+- !private ["5Vapor11ApplicationC", "delete"]
 - !private ["5Vapor11ApplicationC", "get"]
-- !private ["5Vapor11ApplicationC", "register"]
+- !private ["5Vapor11ApplicationC", "post"]
+- !private ["5Vapor11ApplicationC", "put"]
+- !private ["Sa", "ascending"]
+- !private ["SK", ""]
+- !private ["SK", "ascending"]
+- !private ["s7CVarArgP", "ascending"]
+- !private ["Sl", ""]
+- !private ["Sl", "ascending"]
+- !private ["3App5ColorC", "$blue"]
+- !private ["3App5ColorC", "$green"]
+- !private ["3App5ColorC", "$name"]
+- !private ["3App5ColorC", "$red"]
+- !private ["3App5ColorC", ""]
+- !private ["3App5ColorC", "blue"]
+- !private ["3App5ColorC", "delete"]
+- !private ["3App5ColorC", "find"]
+- !private ["3App5ColorC", "green"]
+- !private ["3App5ColorC", "name"]
+- !private ["3App5ColorC", "query"]
+- !private ["3App5ColorC", "red"]
+- !private ["3App5ColorC", "save"]
+- !private ["5Vapor7ContentP", "$blue"]
+- !private ["5Vapor7ContentP", "$green"]
+- !private ["5Vapor7ContentP", "$name"]
+- !private ["5Vapor7ContentP", "$red"]
+- !private ["5Vapor7ContentP", "ascending"]
+- !private ["5Vapor7ContentP", "blue"]
+- !private ["5Vapor7ContentP", "delete"]
+- !private ["5Vapor7ContentP", "find"]
+- !private ["5Vapor7ContentP", "green"]
+- !private ["5Vapor7ContentP", "name"]
+- !private ["5Vapor7ContentP", "query"]
+- !private ["5Vapor7ContentP", "red"]
+- !private ["5Vapor7ContentP", "save"]
+- !private ["5Vapor16ContentContainerP", "decode"]
+- !private ["10Foundation15ContiguousBytesP", "ascending"]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "ascending"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s17CustomReflectableP", "ascending"]
+- !private ["s23CustomStringConvertibleP", "$blue"]
+- !private ["s23CustomStringConvertibleP", "$green"]
+- !private ["s23CustomStringConvertibleP", "$name"]
+- !private ["s23CustomStringConvertibleP", "$red"]
+- !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "ascending"]
+- !private ["s23CustomStringConvertibleP", "blue"]
+- !private ["s23CustomStringConvertibleP", "content"]
+- !private ["s23CustomStringConvertibleP", "db"]
+- !private ["s23CustomStringConvertibleP", "delete"]
+- !private ["s23CustomStringConvertibleP", "find"]
+- !private ["s23CustomStringConvertibleP", "green"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "or"]
+- !private ["s23CustomStringConvertibleP", "parameters"]
+- !private ["s23CustomStringConvertibleP", "query"]
+- !private ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "save"]
+- !private ["10Foundation12DataProtocolP", ""]
+- !private ["10Foundation12DataProtocolP", "ascending"]
+- !private ["5Vapor15DebuggableErrorP", "init"]
+- !private ["Se", "$blue"]
+- !private ["Se", "$green"]
+- !private ["Se", "$name"]
+- !private ["Se", "$red"]
+- !private ["Se", ""]
+- !private ["Se", "ascending"]
+- !private ["Se", "badRequest"]
+- !private ["Se", "blue"]
+- !private ["Se", "delete"]
+- !private ["Se", "find"]
+- !private ["Se", "green"]
+- !private ["Se", "name"]
+- !private ["Se", "noContent"]
+- !private ["Se", "notFound"]
+- !private ["Se", "query"]
+- !private ["Se", "red"]
+- !private ["Se", "save"]
+- !private ["9FluentKit13DatabaseQueryV4SortO9DirectionO", "ascending"]
+- !private ["9FluentKit16EagerLoadBuilderP", "all"]
+- !private ["9FluentKit16EagerLoadBuilderP", "filter"]
+- !private ["9FluentKit16EagerLoadBuilderP", "first"]
+- !private ["9FluentKit16EagerLoadBuilderP", "group"]
+- !private ["9FluentKit16EagerLoadBuilderP", "sort"]
+- !private ["SE", "$blue"]
+- !private ["SE", "$green"]
+- !private ["SE", "$name"]
+- !private ["SE", "$red"]
+- !private ["SE", ""]
+- !private ["SE", "ascending"]
+- !private ["SE", "badRequest"]
+- !private ["SE", "blue"]
+- !private ["SE", "delete"]
+- !private ["SE", "find"]
+- !private ["SE", "green"]
+- !private ["SE", "name"]
+- !private ["SE", "noContent"]
+- !private ["SE", "notFound"]
+- !private ["SE", "query"]
+- !private ["SE", "red"]
+- !private ["SE", "save"]
+- !private ["SQ", ""]
+- !private ["SQ", "ascending"]
+- !private ["SQ", "badRequest"]
+- !private ["SQ", "flatMap"]
+- !private ["SQ", "map"]
+- !private ["SQ", "noContent"]
+- !private ["SQ", "notFound"]
+- !private ["SQ", "transform"]
+- !private ["SQ", "unwrap"]
+- !private ["s5ErrorP", ""]
+- !private ["s5ErrorP", "init"]
+- !private ["3NIO15EventLoopFutureC", "flatMap"]
+- !private ["3NIO15EventLoopFutureC", "map"]
+- !private ["3NIO15EventLoopFutureC", "noContent"]
+- !private ["3NIO15EventLoopFutureC", "transform"]
+- !private ["3NIO15EventLoopFutureC", "unwrap"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "ascending"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "ascending"]
 - !private ["s26ExpressibleByStringLiteralP", "StringLiteralType"]
+- !private ["s26ExpressibleByStringLiteralP", "ascending"]
 - !private ["s26ExpressibleByStringLiteralP", "init"]
-- !private ["5Vapor15RouteCollectionP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "ascending"]
+- !private ["9FluentKit8FieldKeyO", "ascending"]
+- !private ["9FluentKit13FieldPropertyC", "init"]
+- !private ["9FluentKit13FieldPropertyC", "projectedValue"]
+- !private ["9FluentKit13FieldPropertyC", "subscript"]
+- !private ["9FluentKit13FieldPropertyC", "wrappedValue"]
+- !private ["9FluentKit6FieldsP", "$blue"]
+- !private ["9FluentKit6FieldsP", "$green"]
+- !private ["9FluentKit6FieldsP", "$name"]
+- !private ["9FluentKit6FieldsP", "$red"]
+- !private ["9FluentKit6FieldsP", ""]
+- !private ["9FluentKit6FieldsP", "blue"]
+- !private ["9FluentKit6FieldsP", "delete"]
+- !private ["9FluentKit6FieldsP", "find"]
+- !private ["9FluentKit6FieldsP", "green"]
+- !private ["9FluentKit6FieldsP", "name"]
+- !private ["9FluentKit6FieldsP", "query"]
+- !private ["9FluentKit6FieldsP", "red"]
+- !private ["9FluentKit6FieldsP", "save"]
+- !private ["8NIOHTTP118HTTPResponseStatusO", "badRequest"]
+- !private ["8NIOHTTP118HTTPResponseStatusO", "noContent"]
+- !private ["8NIOHTTP118HTTPResponseStatusO", "notFound"]
+- !private ["SH", "ascending"]
+- !private ["9FluentKit10IDPropertyC", "init"]
+- !private ["9FluentKit10IDPropertyC", "projectedValue"]
+- !private ["9FluentKit10IDPropertyC", "subscript"]
+- !private ["9FluentKit10IDPropertyC", "wrappedValue"]
+- !private ["s7KeyPathC", "ascending"]
+- !private ["10Foundation14LocalizedErrorP", ""]
+- !private ["10Foundation14LocalizedErrorP", "init"]
+- !private ["9FluentKit5ModelP", "$blue"]
+- !private ["9FluentKit5ModelP", "$green"]
+- !private ["9FluentKit5ModelP", "$name"]
+- !private ["9FluentKit5ModelP", "$red"]
+- !private ["9FluentKit5ModelP", "blue"]
+- !private ["9FluentKit5ModelP", "delete"]
+- !private ["9FluentKit5ModelP", "find"]
+- !private ["9FluentKit5ModelP", "green"]
+- !private ["9FluentKit5ModelP", "name"]
+- !private ["9FluentKit5ModelP", "query"]
+- !private ["9FluentKit5ModelP", "red"]
+- !private ["9FluentKit5ModelP", "save"]
+- !private ["SM", ""]
+- !private ["SM", "ascending"]
+- !private ["10Foundation19MutableDataProtocolP", "ascending"]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectP", ""]
+- !private ["11PostgresNIO11PSQLCodableP", "ascending"]
+- !private ["11PostgresNIO13PSQLDecodableP", ""]
+- !private ["11PostgresNIO13PSQLDecodableP", "ascending"]
+- !private ["11PostgresNIO13PSQLEncodableP", ""]
+- !private ["11PostgresNIO13PSQLEncodableP", "ascending"]
+- !private ["10RoutingKit10ParametersV", "get"]
+- !private ["s14PartialKeyPathC", "ascending"]
+- !private ["11PostgresNIO0A15DataConvertibleP", "ascending"]
+- !private ["9FluentKit8PropertyP", ""]
+- !private ["9FluentKit12QueryBuilderC", "all"]
+- !private ["9FluentKit12QueryBuilderC", "filter"]
+- !private ["9FluentKit12QueryBuilderC", "first"]
+- !private ["9FluentKit12QueryBuilderC", "group"]
+- !private ["9FluentKit12QueryBuilderC", "sort"]
+- !private ["Sk", ""]
+- !private ["Sk", "ascending"]
+- !private ["Sm", ""]
+- !private ["Sm", "ascending"]
+- !private ["9FluentKit13DatabaseQueryV6FilterO8RelationO", "or"]
+- !private ["5Vapor7RequestC", "content"]
+- !private ["5Vapor7RequestC", "db"]
+- !private ["5Vapor7RequestC", "parameters"]
+- !private ["5Vapor7RequestC", "query"]
+- !private ["5Vapor16RequestDecodableP", "$blue"]
+- !private ["5Vapor16RequestDecodableP", "$green"]
+- !private ["5Vapor16RequestDecodableP", "$name"]
+- !private ["5Vapor16RequestDecodableP", "$red"]
+- !private ["5Vapor16RequestDecodableP", ""]
+- !private ["5Vapor16RequestDecodableP", "ascending"]
+- !private ["5Vapor16RequestDecodableP", "blue"]
+- !private ["5Vapor16RequestDecodableP", "content"]
+- !private ["5Vapor16RequestDecodableP", "db"]
+- !private ["5Vapor16RequestDecodableP", "delete"]
+- !private ["5Vapor16RequestDecodableP", "find"]
+- !private ["5Vapor16RequestDecodableP", "green"]
+- !private ["5Vapor16RequestDecodableP", "name"]
+- !private ["5Vapor16RequestDecodableP", "parameters"]
+- !private ["5Vapor16RequestDecodableP", "query"]
+- !private ["5Vapor16RequestDecodableP", "red"]
+- !private ["5Vapor16RequestDecodableP", "save"]
+- !private ["5Vapor17ResponseEncodableP", "$blue"]
+- !private ["5Vapor17ResponseEncodableP", "$green"]
+- !private ["5Vapor17ResponseEncodableP", "$name"]
+- !private ["5Vapor17ResponseEncodableP", "$red"]
+- !private ["5Vapor17ResponseEncodableP", ""]
+- !private ["5Vapor17ResponseEncodableP", "ascending"]
+- !private ["5Vapor17ResponseEncodableP", "badRequest"]
+- !private ["5Vapor17ResponseEncodableP", "blue"]
+- !private ["5Vapor17ResponseEncodableP", "delete"]
+- !private ["5Vapor17ResponseEncodableP", "find"]
+- !private ["5Vapor17ResponseEncodableP", "flatMap"]
+- !private ["5Vapor17ResponseEncodableP", "green"]
+- !private ["5Vapor17ResponseEncodableP", "map"]
+- !private ["5Vapor17ResponseEncodableP", "name"]
+- !private ["5Vapor17ResponseEncodableP", "noContent"]
+- !private ["5Vapor17ResponseEncodableP", "notFound"]
+- !private ["5Vapor17ResponseEncodableP", "query"]
+- !private ["5Vapor17ResponseEncodableP", "red"]
+- !private ["5Vapor17ResponseEncodableP", "save"]
+- !private ["5Vapor17ResponseEncodableP", "transform"]
+- !private ["5Vapor17ResponseEncodableP", "unwrap"]
+- !private ["5Vapor13RoutesBuilderP", "delete"]
 - !private ["5Vapor13RoutesBuilderP", "get"]
-- !private ["5Vapor13RoutesBuilderP", "register"]
-- !private ["3App14TodoControllerV", ""]
-- !private ["3App14TodoControllerV", "init"]
+- !private ["5Vapor13RoutesBuilderP", "post"]
+- !private ["5Vapor13RoutesBuilderP", "put"]
+- !private ["9FluentKit6SchemaP", "$blue"]
+- !private ["9FluentKit6SchemaP", "$green"]
+- !private ["9FluentKit6SchemaP", "$name"]
+- !private ["9FluentKit6SchemaP", "$red"]
+- !private ["9FluentKit6SchemaP", ""]
+- !private ["9FluentKit6SchemaP", "blue"]
+- !private ["9FluentKit6SchemaP", "delete"]
+- !private ["9FluentKit6SchemaP", "find"]
+- !private ["9FluentKit6SchemaP", "green"]
+- !private ["9FluentKit6SchemaP", "name"]
+- !private ["9FluentKit6SchemaP", "query"]
+- !private ["9FluentKit6SchemaP", "red"]
+- !private ["9FluentKit6SchemaP", "save"]
+- !private ["ST", ""]
+- !private ["ST", "ascending"]
+- !private ["5Vapor17URLQueryContainerP", "subscript"]
+- !private ["s14_AppendKeyPathP", "ascending"]
+- !private ["s14_ArrayProtocolP", "ascending"]
+- !private ["s24_DestructorSafeContainerP", "ascending"]
 - !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "ascending"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "ascending"]
+- !private ["s21_ObjectiveCBridgeableP", "ascending"]
 depends-nominal:
+- !private "5Vapor5AbortV"
+- !private "5Vapor10AbortErrorP"
+- !private "s10AnyKeyPathC"
+- !private "9FluentKit8AnyModelP"
+- !private "9FluentKit11AnyPropertyP"
+- !private "9FluentKit20AnyQueryablePropertyP"
 - !private "5Vapor11ApplicationC"
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "3App5ColorC"
+- !private "5Vapor7ContentP"
+- !private "5Vapor16ContentContainerP"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "5Vapor15DebuggableErrorP"
+- !private "Se"
+- !private "9FluentKit13DatabaseQueryV4SortO9DirectionO"
+- !private "9FluentKit16EagerLoadBuilderP"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "3NIO15EventLoopFutureC"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
 - !private "s26ExpressibleByStringLiteralP"
-- !private "5Vapor15RouteCollectionP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "9FluentKit8FieldKeyO"
+- !private "9FluentKit13FieldPropertyC"
+- !private "9FluentKit6FieldsP"
+- !private "8NIOHTTP118HTTPResponseStatusO"
+- !private "SH"
+- !private "9FluentKit10IDPropertyC"
+- !private "s7KeyPathC"
+- !private "10Foundation14LocalizedErrorP"
+- !private "9FluentKit5ModelP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- "So8NSObjectP"
+- !private "11PostgresNIO11PSQLCodableP"
+- !private "11PostgresNIO13PSQLDecodableP"
+- !private "11PostgresNIO13PSQLEncodableP"
+- !private "10RoutingKit10ParametersV"
+- !private "s14PartialKeyPathC"
+- !private "11PostgresNIO0A15DataConvertibleP"
+- !private "9FluentKit8PropertyP"
+- !private "9FluentKit12QueryBuilderC"
+- !private "Sk"
+- !private "Sm"
+- !private "9FluentKit13DatabaseQueryV6FilterO8RelationO"
+- !private "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor17ResponseEncodableP"
 - !private "5Vapor13RoutesBuilderP"
-- !private "3App14TodoControllerV"
+- !private "9FluentKit6SchemaP"
+- !private "ST"
+- !private "5Vapor17URLQueryContainerP"
+- !private "s14_AppendKeyPathP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
 - !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/NIOHTTP1.swiftmodule"

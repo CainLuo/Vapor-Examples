@@ -7,7 +7,8 @@ provides-dynamic-lookup:
 depends-top-level:
 - !private "??"
 - "Application"
-- !private "CreateTodo"
+- "AssignmentPrecedence"
+- !private "CreateColor"
 - !private "Environment"
 - !private "Int"
 - !private "PostgresConfiguration"
@@ -21,51 +22,65 @@ depends-member:
 - !private ["9FluentKit15AnyOptionalTypeP", ""]
 - !private ["5Vapor15AnyOptionalTypeP", "flatMap"]
 - !private ["9FluentKit15AnyOptionalTypeP", "flatMap"]
+- !private ["5Vapor11ApplicationC", "autoMigrate"]
 - !private ["5Vapor11ApplicationC", "databases"]
+- !private ["5Vapor11ApplicationC", "logger"]
 - !private ["5Vapor11ApplicationC", "migrations"]
 - !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "init"]
 - !private ["Sz", ""]
 - !private ["Sz", "init"]
 - !private ["s7CVarArgP", "init"]
+- !private ["s12CaseIterableP", "debug"]
 - !private ["5Vapor22CodingKeyRepresentableP", "init"]
 - !private ["SL", ""]
+- !private ["SL", "debug"]
 - !private ["SL", "init"]
 - !private ["5Vapor7ContentP", "init"]
-- !private ["3App10CreateTodoV", ""]
-- !private ["3App10CreateTodoV", "init"]
+- !private ["3App11CreateColorV", ""]
+- !private ["3App11CreateColorV", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "flatMap"]
 - !private ["s17CustomReflectableP", "flatMap"]
 - !private ["s17CustomReflectableP", "init"]
 - !private ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "debug"]
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["9FluentKit21DatabaseConfigurationP", "postgres"]
 - !private ["9FluentKit28DatabaseConfigurationFactoryV", "postgres"]
 - !private ["9FluentKit10DatabaseIDV", "psql"]
 - !private ["9FluentKit9DatabasesC", "use"]
 - !private ["Se", ""]
+- !private ["Se", "debug"]
 - !private ["Se", "flatMap"]
 - !private ["Se", "init"]
 - !private ["Se", "psql"]
 - !private ["SE", ""]
+- !private ["SE", "debug"]
 - !private ["SE", "flatMap"]
 - !private ["SE", "init"]
 - !private ["SE", "psql"]
 - !private ["5Vapor11EnvironmentV", "get"]
 - !private ["SQ", ""]
+- !private ["SQ", "debug"]
 - !private ["SQ", "flatMap"]
 - !private ["SQ", "get"]
 - !private ["SQ", "init"]
 - !private ["SQ", "psql"]
+- !private ["SQ", "wait"]
+- !private ["3NIO15EventLoopFutureC", "wait"]
 - !private ["s27ExpressibleByIntegerLiteralP", ""]
 - !private ["s27ExpressibleByIntegerLiteralP", "init"]
 - !private ["s23ExpressibleByNilLiteralP", "flatMap"]
 - !private ["s17FixedWidthIntegerP", "init"]
 - !private ["SH", ""]
+- !private ["SH", "debug"]
 - !private ["SH", "flatMap"]
 - !private ["SH", "init"]
 - !private ["SH", "psql"]
 - !private ["Si", "init"]
+- !private ["7Logging6LoggerV5LevelO", "debug"]
+- !private ["7Logging6LoggerV", "logLevel"]
 - !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "debug"]
 - !private ["s25LosslessStringConvertibleP", "init"]
 - !private ["9FluentKit9MigrationP", "init"]
 - !private ["9FluentKit10MigrationsC", "add"]
@@ -91,11 +106,15 @@ depends-member:
 - !private ["11PostgresKit0A13ConfigurationV", "ianaPortNumber"]
 - !private ["11PostgresNIO0A15DataConvertibleP", "flatMap"]
 - !private ["11PostgresNIO0A15DataConvertibleP", "init"]
+- !private ["SY", "debug"]
 - !private ["5Vapor16RequestDecodableP", ""]
 - !private ["5Vapor16RequestDecodableP", "init"]
 - !private ["5Vapor17ResponseEncodableP", ""]
 - !private ["5Vapor17ResponseEncodableP", "init"]
+- !private ["5Vapor17ResponseEncodableP", "wait"]
+- !private ["5Vapor13RoutesBuilderP", "autoMigrate"]
 - !private ["5Vapor13RoutesBuilderP", "databases"]
+- !private ["5Vapor13RoutesBuilderP", "logger"]
 - !private ["5Vapor13RoutesBuilderP", "migrations"]
 - !private ["s10SIMDScalarP", "init"]
 - !private ["SZ", "init"]
@@ -120,10 +139,11 @@ depends-nominal:
 - !private "21NIOConcurrencyHelpers15AtomicPrimitiveP"
 - !private "Sz"
 - !private "s7CVarArgP"
+- !private "s12CaseIterableP"
 - !private "5Vapor22CodingKeyRepresentableP"
 - !private "SL"
 - !private "5Vapor7ContentP"
-- !private "3App10CreateTodoV"
+- !private "3App11CreateColorV"
 - !private "s28CustomDebugStringConvertibleP"
 - !private "s17CustomReflectableP"
 - !private "s23CustomStringConvertibleP"
@@ -135,11 +155,14 @@ depends-nominal:
 - !private "SE"
 - !private "5Vapor11EnvironmentV"
 - !private "SQ"
+- !private "3NIO15EventLoopFutureC"
 - !private "s27ExpressibleByIntegerLiteralP"
 - !private "s23ExpressibleByNilLiteralP"
 - !private "s17FixedWidthIntegerP"
 - !private "SH"
 - !private "Si"
+- !private "7Logging6LoggerV5LevelO"
+- !private "7Logging6LoggerV"
 - !private "s25LosslessStringConvertibleP"
 - !private "9FluentKit9MigrationP"
 - !private "9FluentKit10MigrationsC"
@@ -157,6 +180,7 @@ depends-nominal:
 - !private "11PostgresNIO13PSQLEncodableP"
 - !private "11PostgresKit0A13ConfigurationV"
 - !private "11PostgresNIO0A15DataConvertibleP"
+- !private "SY"
 - !private "5Vapor16RequestDecodableP"
 - !private "5Vapor17ResponseEncodableP"
 - !private "5Vapor13RoutesBuilderP"

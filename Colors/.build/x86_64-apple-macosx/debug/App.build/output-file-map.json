@@ -2,23 +2,17 @@
   "": {
     "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/master.swiftdeps"
   },
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Controllers/TodoController.swift": {
-    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Controllers/TodoController.d",
-    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Controllers/TodoController.swift.o",
-    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Controllers/TodoController~partial.swiftmodule",
-    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Controllers/TodoController.swiftdeps"
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Migrations/CreateColor.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateColor.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateColor.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateColor.swiftdeps"
   },
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Migrations/CreateTodo.swift": {
-    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateTodo.d",
-    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateTodo.swift.o",
-    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateTodo~partial.swiftmodule",
-    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Migrations/CreateTodo.swiftdeps"
-  },
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Models/Todo.swift": {
-    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Todo.d",
-    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Todo.swift.o",
-    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Todo~partial.swiftmodule",
-    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Todo.swiftdeps"
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Models/Color.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Color.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Color.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/Models/Color.swiftdeps"
   },
   "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/configure.swift": {
     "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/App.build/configure.d",
