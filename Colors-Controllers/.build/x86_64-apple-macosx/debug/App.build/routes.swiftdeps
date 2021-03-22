@@ -6,28 +6,19 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "Application"
-- "String"
-- !private "StringLiteralType"
-- !private "TodoController"
+- !private "ColorsController"
 - "routes"
 depends-member:
-- !private ["5Vapor11ApplicationC", "get"]
 - !private ["5Vapor11ApplicationC", "register"]
-- !private ["s26ExpressibleByStringLiteralP", "StringLiteralType"]
-- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["3App16ColorsControllerV", ""]
+- !private ["3App16ColorsControllerV", "init"]
 - !private ["5Vapor15RouteCollectionP", "init"]
-- !private ["5Vapor13RoutesBuilderP", "get"]
 - !private ["5Vapor13RoutesBuilderP", "register"]
-- !private ["3App14TodoControllerV", ""]
-- !private ["3App14TodoControllerV", "init"]
-- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
 depends-nominal:
 - !private "5Vapor11ApplicationC"
-- !private "s26ExpressibleByStringLiteralP"
+- !private "3App16ColorsControllerV"
 - !private "5Vapor15RouteCollectionP"
 - !private "5Vapor13RoutesBuilderP"
-- !private "3App14TodoControllerV"
-- !private "s34_ExpressibleByBuiltinStringLiteralP"
 depends-dynamic-lookup:
 depends-external:
 - "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/x86_64-apple-macosx/debug/NIOHTTP1.swiftmodule"

@@ -7,7 +7,6 @@ provides-dynamic-lookup:
 depends-top-level:
 - !private "??"
 - "Application"
-- !private "CreateTodo"
 - !private "Environment"
 - !private "Int"
 - !private "PostgresConfiguration"
@@ -22,7 +21,6 @@ depends-member:
 - !private ["5Vapor15AnyOptionalTypeP", "flatMap"]
 - !private ["9FluentKit15AnyOptionalTypeP", "flatMap"]
 - !private ["5Vapor11ApplicationC", "databases"]
-- !private ["5Vapor11ApplicationC", "migrations"]
 - !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "init"]
 - !private ["Sz", ""]
 - !private ["Sz", "init"]
@@ -31,8 +29,6 @@ depends-member:
 - !private ["SL", ""]
 - !private ["SL", "init"]
 - !private ["5Vapor7ContentP", "init"]
-- !private ["3App10CreateTodoV", ""]
-- !private ["3App10CreateTodoV", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "flatMap"]
 - !private ["s17CustomReflectableP", "flatMap"]
 - !private ["s17CustomReflectableP", "init"]
@@ -67,8 +63,6 @@ depends-member:
 - !private ["Si", "init"]
 - !private ["s25LosslessStringConvertibleP", ""]
 - !private ["s25LosslessStringConvertibleP", "init"]
-- !private ["9FluentKit9MigrationP", "init"]
-- !private ["9FluentKit10MigrationsC", "add"]
 - !private ["s10MirrorPathP", "init"]
 - !private ["12MultipartKit0A15PartConvertibleP", "init"]
 - !private ["21NIOConcurrencyHelpers18NIOAtomicPrimitiveP", "init"]
@@ -96,7 +90,6 @@ depends-member:
 - !private ["5Vapor17ResponseEncodableP", ""]
 - !private ["5Vapor17ResponseEncodableP", "init"]
 - !private ["5Vapor13RoutesBuilderP", "databases"]
-- !private ["5Vapor13RoutesBuilderP", "migrations"]
 - !private ["s10SIMDScalarP", "init"]
 - !private ["SZ", "init"]
 - !private ["s13SignedNumericP", ""]
@@ -123,7 +116,6 @@ depends-nominal:
 - !private "5Vapor22CodingKeyRepresentableP"
 - !private "SL"
 - !private "5Vapor7ContentP"
-- !private "3App10CreateTodoV"
 - !private "s28CustomDebugStringConvertibleP"
 - !private "s17CustomReflectableP"
 - !private "s23CustomStringConvertibleP"
@@ -141,8 +133,6 @@ depends-nominal:
 - !private "SH"
 - !private "Si"
 - !private "s25LosslessStringConvertibleP"
-- !private "9FluentKit9MigrationP"
-- !private "9FluentKit10MigrationsC"
 - !private "s10MirrorPathP"
 - !private "12MultipartKit0A15PartConvertibleP"
 - !private "21NIOConcurrencyHelpers18NIOAtomicPrimitiveP"
