@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "f6a2490845ee238dea59de425f7a9891"
+build_time: [1616405785, 795140000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugInboundEventsHandler.swift": [1616405745, 513014177]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugOutboundEventsHandler.swift": [1616405745, 513157462]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/FixedLengthFrameDecoder.swift": [1616405745, 513275872]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift": [1616405745, 513500715]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming.swift": [1616405745, 513626331]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift": [1616405745, 513779100]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldPrepender.swift": [1616405745, 513946432]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LineBasedFrameDecoder.swift": [1616405745, 514100683]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOExtrasError.swift": [1616405745, 514264377]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOLengthFieldBitLength.swift": [1616405745, 514471858]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/PCAPRingBuffer.swift": [1616405745, 514615243]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/QuiescingHelper.swift": [1616405745, 514793264]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseHandler.swift": [1616405745, 514961135]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOExtras/WritePCAPHandler.swift": [1616405745, 515237093]

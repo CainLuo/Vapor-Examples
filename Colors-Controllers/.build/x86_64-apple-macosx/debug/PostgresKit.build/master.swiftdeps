@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7db3df5da5a6683246d33f5a59a85ef8"
+build_time: [1616405800, 288403000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/ConnectionPool+Postgres.swift": [1616405750, 138983121]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/Deprecations/PostgresDataDecoder+JSONDecoder.swift": [1616405750, 139163013]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/Exports.swift": [1616405750, 139272683]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresClient+SQL.swift": [1616405750, 139397048]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresColumnType.swift": [1616405750, 139556825]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConfiguration.swift": [1616405750, 139688448]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresConnectionSource.swift": [1616405750, 139813611]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataDecoder.swift": [1616405750, 139947358]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDataEncoder.swift": [1616405750, 140094512]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresDialect.swift": [1616405750, 140211826]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/postgres-kit/Sources/PostgresKit/PostgresRow+SQL.swift": [1616405750, 140373992]

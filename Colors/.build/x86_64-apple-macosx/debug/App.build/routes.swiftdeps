@@ -11,7 +11,6 @@ depends-top-level:
 - !private "AssignmentPrecedence"
 - "Color"
 - "EventLoopFuture"
-- "Float"
 - "HTTPStatus"
 - "String"
 - !private "StringLiteralType"
@@ -33,7 +32,9 @@ depends-member:
 - !private ["9FluentKit8AnyModelP", "query"]
 - !private ["9FluentKit8AnyModelP", "red"]
 - !private ["9FluentKit8AnyModelP", "save"]
+- !private ["9FluentKit11AnyPropertyP", "Value"]
 - !private ["9FluentKit11AnyPropertyP", ""]
+- !private ["9FluentKit20AnyQueryablePropertyP", "Value"]
 - !private ["9FluentKit20AnyQueryablePropertyP", ""]
 - !private ["5Vapor11ApplicationC", "delete"]
 - !private ["5Vapor11ApplicationC", "get"]
@@ -58,6 +59,7 @@ depends-member:
 - !private ["3App5ColorC", "query"]
 - !private ["3App5ColorC", "red"]
 - !private ["3App5ColorC", "save"]
+- !private ["SL", ""]
 - !private ["5Vapor7ContentP", "$blue"]
 - !private ["5Vapor7ContentP", "$green"]
 - !private ["5Vapor7ContentP", "$name"]
@@ -218,16 +220,21 @@ depends-member:
 - !private ["10RoutingKit10ParametersV", "get"]
 - !private ["s14PartialKeyPathC", "ascending"]
 - !private ["11PostgresNIO0A15DataConvertibleP", "ascending"]
+- !private ["9FluentKit8PropertyP", "Value"]
 - !private ["9FluentKit8PropertyP", ""]
 - !private ["9FluentKit12QueryBuilderC", "all"]
 - !private ["9FluentKit12QueryBuilderC", "filter"]
 - !private ["9FluentKit12QueryBuilderC", "first"]
 - !private ["9FluentKit12QueryBuilderC", "group"]
 - !private ["9FluentKit12QueryBuilderC", "sort"]
+- !private ["9FluentKit17QueryablePropertyP", "Value"]
 - !private ["Sk", ""]
 - !private ["Sk", "ascending"]
 - !private ["Sm", ""]
 - !private ["Sm", "ascending"]
+- !private ["SY", "RawValue"]
+- !private ["SY", "init"]
+- !private ["SY", "rawValue"]
 - !private ["9FluentKit13DatabaseQueryV6FilterO8RelationO", "or"]
 - !private ["5Vapor7RequestC", "content"]
 - !private ["5Vapor7RequestC", "db"]
@@ -311,6 +318,7 @@ depends-nominal:
 - !private "s7CVarArgP"
 - !private "Sl"
 - !private "3App5ColorC"
+- !private "SL"
 - !private "5Vapor7ContentP"
 - !private "5Vapor16ContentContainerP"
 - !private "10Foundation15ContiguousBytesP"
@@ -351,8 +359,10 @@ depends-nominal:
 - !private "11PostgresNIO0A15DataConvertibleP"
 - !private "9FluentKit8PropertyP"
 - !private "9FluentKit12QueryBuilderC"
+- !private "9FluentKit17QueryablePropertyP"
 - !private "Sk"
 - !private "Sm"
+- !private "SY"
 - !private "9FluentKit13DatabaseQueryV6FilterO8RelationO"
 - !private "5Vapor7RequestC"
 - !private "5Vapor16RequestDecodableP"

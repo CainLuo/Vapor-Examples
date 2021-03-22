@@ -1,0 +1,4 @@
+module CMultipartParser {
+    umbrella "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/multipart-kit/Sources/CMultipartParser/include"
+    export *
+}

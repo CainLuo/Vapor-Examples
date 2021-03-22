@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "c8a4fb591fd5a827bf095699b8bd2d6a"
+build_time: [1616405785, 795249000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1616405747, 194308134]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift": [1616405747, 194455137]

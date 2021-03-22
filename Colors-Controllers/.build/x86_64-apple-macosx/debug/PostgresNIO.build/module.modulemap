@@ -1,0 +1,4 @@
+module PostgresNIO {
+    header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/x86_64-apple-macosx/debug/PostgresNIO.build/PostgresNIO-Swift.h"
+    requires objc
+}

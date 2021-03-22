@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "2c2b8f0378d6328441e13f100150d0d3"
+build_time: [1616405788, 990386000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift": [1616405745, 516801377]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift": [1616405745, 516954204]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift": [1616405745, 517143969]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift": [1616405745, 517326605]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift": [1616405745, 517479940]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift": [1616405745, 517658917]

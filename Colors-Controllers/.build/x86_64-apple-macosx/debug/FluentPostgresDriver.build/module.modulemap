@@ -1,0 +1,4 @@
+module FluentPostgresDriver {
+    header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/x86_64-apple-macosx/debug/FluentPostgresDriver.build/FluentPostgresDriver-Swift.h"
+    requires objc
+}

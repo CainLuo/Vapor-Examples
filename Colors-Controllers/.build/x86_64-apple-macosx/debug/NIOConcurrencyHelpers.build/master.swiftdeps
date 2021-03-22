@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "d15465aedd95d375f11403c3161aafe5"
+build_time: [1616405781, 395100000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1616405747, 192151389]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1616405747, 192365856]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors-Controllers/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1616405747, 192553595]

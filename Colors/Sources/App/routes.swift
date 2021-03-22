@@ -90,7 +90,7 @@ func routes(_ app: Application) throws {
         req -> EventLoopFuture<[Color]> in
         // 2
         guard let searchColor =
-                req.query[Float.self, at: "color"] else {
+                req.query[String.self, at: "color"] else {
             throw Abort(.badRequest)
         }
         // 1
