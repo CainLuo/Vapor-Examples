@@ -31,6 +31,8 @@ struct AcronymsController: RouteCollection {
         acronymsRoutes.get("sorted", use: sortedHandler)
         
         acronymsRoutes.get(":acronymID", "user", use: getUserHandler)
+        
+        acronymsRoutes.post(":acronymID", "categories", ":categoryID", use: addCategoriesHandler)
     }
     
     func getAllHandler(_ req: Request) throws -> EventLoopFuture<[Acronym]> {
@@ -38,8 +40,8 @@ struct AcronymsController: RouteCollection {
     }
     
     func createHandler(_ req: Request) throws -> EventLoopFuture<Acronym> {
-//        let acronym = try req.content.decode(Acronym.self)
-//        return acronym.save(on: req.db).map { acronym }
+        //        let acronym = try req.content.decode(Acronym.self)
+        //        return acronym.save(on: req.db).map { acronym }
         
         // 1
         let data = try req.content.decode(CreateAcronymData.self)
@@ -55,20 +57,20 @@ struct AcronymsController: RouteCollection {
             .unwrap(or: Abort(.notFound))
     }
     
-//    func updateHandler(_ req: Request) throws
-//    -> EventLoopFuture<Acronym> {
-//        let updatedAcronym = try req.content.decode(Acronym.self)
-//        return Acronym.find(
-//            req.parameters.get("acronymID"),
-//            on: req.db)
-//            .unwrap(or: Abort(.notFound)).flatMap { acronym in
-//                acronym.short = updatedAcronym.short
-//                acronym.long = updatedAcronym.long
-//                return acronym.save(on: req.db).map {
-//                    acronym
-//                }
-//            }
-//    }
+    //    func updateHandler(_ req: Request) throws
+    //    -> EventLoopFuture<Acronym> {
+    //        let updatedAcronym = try req.content.decode(Acronym.self)
+    //        return Acronym.find(
+    //            req.parameters.get("acronymID"),
+    //            on: req.db)
+    //            .unwrap(or: Abort(.notFound)).flatMap { acronym in
+    //                acronym.short = updatedAcronym.short
+    //                acronym.long = updatedAcronym.long
+    //                return acronym.save(on: req.db).map {
+    //                    acronym
+    //                }
+    //            }
+    //    }
     
     func updateHandler(_ req: Request) throws -> EventLoopFuture<Acronym> {
         let updateData = try req.content.decode(CreateAcronymData.self)
@@ -129,6 +131,54 @@ struct AcronymsController: RouteCollection {
                 acronym.$user.get(on: req.db)
             }
     }
+    
+    // 1
+    func addCategoriesHandler(_ req: Request) throws -> EventLoopFuture<HTTPStatus> {
+        // 2
+        let acronymQuery = Acronym.find(req.parameters.get("acronymID"), on: req.db)
+            .unwrap(or: Abort(.notFound))
+        let categoryQuery = Category.find(req.parameters.get("categoryID"), on: req.db)
+            .unwrap(or: Abort(.notFound))
+        
+        // 3
+        return acronymQuery.and(categoryQuery)
+            .flatMap { acronym, category in
+                acronym
+                    .$categories
+                    .attach(category, on: req.db)
+                    .transform(to: .created)
+            }
+    }
+    
+    // 1
+    func getCategoriesHandler(_ req: Request) throws -> EventLoopFuture<[Category]> {
+        // 2
+        Acronym.find(req.parameters.get("acronymID"), on: req.db)
+            .unwrap(or: Abort(.notFound))
+            .flatMap { acronym in
+                // 3
+                acronym.$categories.query(on: req.db).all()
+            }
+    }
+
+    // 1
+    func removeCategoriesHandler(_ req: Request) throws -> EventLoopFuture<HTTPStatus> {
+        // 2
+        let acronymQuery = Acronym.find(req.parameters.get("acronymID"), on: req.db)
+            .unwrap(or: Abort(.notFound))
+        let categoryQuery = Category.find(req.parameters.get("categoryID"), on: req.db)
+            .unwrap(or: Abort(.notFound))
+        // 3
+        return acronymQuery.and(categoryQuery)
+            .flatMap { acronym, category in
+                // 4
+                acronym
+                    .$categories
+                    .detach(category, on: req.db)
+                    .transform(to: .noContent)
+            }
+    }
+
 }
 
 struct CreateAcronymData: Content {
