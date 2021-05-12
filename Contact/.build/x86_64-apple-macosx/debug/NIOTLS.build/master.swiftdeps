@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "60e3f81fbddbb3f4eef682ea33cab522"
+build_time: [1620785595, 702709000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1620785563, 870989123]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1620785563, 871308305]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1620785563, 871502226]

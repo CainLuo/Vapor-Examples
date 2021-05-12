@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/master.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/Exports.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/Exports.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/Exports.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/Exports.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/FluentMySQLConfiguration.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLConfiguration.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLConfiguration.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLConfiguration.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/FluentMySQLDatabase.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDatabase.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDatabase.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDatabase.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/FluentMySQLDriver.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDriver.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDriver.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDriver~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLDriver.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/FluentMySQLError.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLError.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLError.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLError~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/FluentMySQLError.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/MySQLConverterDelegate.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLConverterDelegate.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLConverterDelegate.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLConverterDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLConverterDelegate.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/MySQLDatabase.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLDatabase.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLDatabase.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLDatabase~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLDatabase.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/MySQLError+Database.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLError+Database.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLError+Database.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLError+Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLError+Database.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-mysql-driver/Sources/FluentMySQLDriver/MySQLRow+Database.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLRow+Database.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLRow+Database.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLRow+Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/FluentMySQLDriver.build/MySQLRow+Database.swiftdeps"
+  }
+}

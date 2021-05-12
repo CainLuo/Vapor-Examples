@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "adf6e387c1ccf708acc9041a238ed841"
+build_time: [1620785603, 837560000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseQuery+SQL.swift": [1620785562, 525860114]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/DatabaseSchema+SQL.swift": [1620785562, 526086757]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/Exports.swift": [1620785562, 526224509]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLDatabase+Model.swift": [1620785562, 526344709]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLJSONColumnPath.swift": [1620785562, 526457029]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLQueryConverter.swift": [1620785562, 526652269]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/SQLSchemaConverter.swift": [1620785562, 526830035]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/fluent-kit/Sources/FluentSQL/Utilities.swift": [1620785562, 526944254]

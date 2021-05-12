@@ -1,0 +1,4 @@
+module NIOFoundationCompat {
+    header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/NIOFoundationCompat-Swift.h"
+    requires objc
+}

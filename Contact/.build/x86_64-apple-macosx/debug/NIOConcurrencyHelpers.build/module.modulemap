@@ -1,0 +1,4 @@
+module NIOConcurrencyHelpers {
+    header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers-Swift.h"
+    requires objc
+}

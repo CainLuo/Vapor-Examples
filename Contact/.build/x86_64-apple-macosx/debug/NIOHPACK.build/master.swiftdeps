@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "55b79be7c0e91144dc455cb3d1bca4a7"
+build_time: [1620785599, 933168000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift": [1620785564, 316156521]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1620785564, 316342379]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1620785564, 316559977]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1620785564, 316708167]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1620785564, 316984115]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1620785564, 317216890]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1620785564, 317440896]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1620785564, 318215116]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift": [1620785564, 318447967]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1620785564, 318614363]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift": [1620785564, 318736574]

@@ -1,0 +1,65 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/master.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/BasicCodingKey.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Exports.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataDecoder.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/FormDataEncoder.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartError.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartError.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartError.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartError~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartError.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartParser.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPart.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartPartConvertible.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/MultipartSerializer.swiftdeps"
+  },
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": {
+    "dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities.d",
+    "object": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities.swift.o",
+    "swiftmodule": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/x86_64-apple-macosx/debug/MultipartKit.build/Utilities.swiftdeps"
+  }
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "c637487a41c4c61d267f5367fc7b510d"
+build_time: [1620785592, 994334000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift": [1620785561, 940764471]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift": [1620785561, 940907735]

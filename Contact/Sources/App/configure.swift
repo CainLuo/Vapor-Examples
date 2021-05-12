@@ -1,6 +1,6 @@
 import Fluent
 import FluentMySQLDriver
-import Leaf
+//import Leaf
 import Vapor
 
 // configures your application
@@ -19,7 +19,7 @@ public func configure(_ app: Application) throws {
     
     app.migrations.add(CreateUsers())
 
-    app.views.use(.leaf)
+//    app.views.use(.leaf)
     app.logger.logLevel = .debug
     
     try app.autoMigrate().wait()

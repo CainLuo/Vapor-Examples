@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "ccd6fd48f7352aae553ee7c98f4a9558"
+build_time: [1620785604, 914299000]
+inputs:
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Connection.swift": [1620785563, 106867814]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift": [1620785563, 107166470]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionsState.swift": [1620785563, 107397952]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift": [1620785563, 107529356]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift": [1620785563, 107676546]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift": [1620785563, 108013957]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClientProxyHandler.swift": [1620785563, 108198114]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift": [1620785563, 108881419]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift": [1620785563, 109117063]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift": [1620785563, 109254282]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift": [1620785563, 109395656]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift": [1620785563, 109573410]
+  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": [1620785563, 109739655]
