@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "4049212a399b671caee77984d6ecacb9"
-build_time: [1620785569, 771998000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1620785562, 969670338]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": [1620785562, 970326355]

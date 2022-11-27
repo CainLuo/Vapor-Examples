@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "1ae90f2e815b654d3034c7801465756e"
-build_time: [1616385812, 787144000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1616385770, 660062130]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1616385770, 660345009]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1616385770, 660478612]

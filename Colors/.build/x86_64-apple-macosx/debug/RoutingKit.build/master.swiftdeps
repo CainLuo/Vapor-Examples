@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "cc9e809f950b73504626132f7c6241fc"
-build_time: [1616385783, 344967000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1616385769, 244038916]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1616385769, 244154170]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1616385769, 244269559]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1616385769, 244417724]

@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "f49a725d2435882696593a74aa973557"
-build_time: [1616385784, 163284000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/vapor/Sources/COperatingSystem/Exports.swift": [1616385768, 262538535]

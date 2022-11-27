@@ -1,4 +1,0 @@
-module CNIOHTTPParser {
-    umbrella header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
-    export *
-}

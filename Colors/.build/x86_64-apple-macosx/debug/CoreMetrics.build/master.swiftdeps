@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "383b19c1e4c74a4c6ab0c5dc84b1700b"
-build_time: [1616385783, 384263000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1616385768, 889911227]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": [1616385768, 890107818]

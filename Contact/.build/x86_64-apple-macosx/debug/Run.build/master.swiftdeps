@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "75d35442325d51a0d8f00f33212edfa6"
-build_time: [1620785764, 721385000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/Sources/Run/main.swift": [1620784567, 747351970]

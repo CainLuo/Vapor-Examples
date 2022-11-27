@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "98ec92f2802ccb3b3f2b12c8f85e1474"
-build_time: [1616385789, 114487000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1616385768, 890351159]

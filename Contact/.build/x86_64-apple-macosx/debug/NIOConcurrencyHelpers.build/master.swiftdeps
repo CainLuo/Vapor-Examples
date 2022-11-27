@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "9598b26a2a5589ab159f1853dbbbf854"
-build_time: [1620785588, 373588000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1620785563, 862706979]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1620785563, 862949562]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1620785563, 863155570]

@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "fc497b0988920fc37199c87c740437a1"
-build_time: [1620785574, 359099000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1620785562, 970597662]

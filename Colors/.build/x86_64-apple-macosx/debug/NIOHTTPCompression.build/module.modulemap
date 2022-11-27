@@ -1,4 +1,0 @@
-module NIOHTTPCompression {
-    header "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/.build/x86_64-apple-macosx/debug/NIOHTTPCompression.build/NIOHTTPCompression-Swift.h"
-    requires objc
-}

@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "100c65f0a35c3bb9f18fedbc38f7f4b8"
-build_time: [1616405066, 620053000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Migrations/CreateColor.swift": [1616402267, 479847758]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/Models/Color.swift": [1616401346, 776021233]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/configure.swift": [1616401242, 512395787]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Colors/Sources/App/routes.swift": !private [1616405054, 789476947]

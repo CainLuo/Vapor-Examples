@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
-options: "bc0378e2a4e2272af40b9144eaad01a2"
-build_time: [1620785760, 497571000]
-inputs:
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/Sources/App/Controllers/UsersController.swift": [1620785738, 817364422]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/Sources/App/Migrations/CreateUsers.swift": [1620784567, 745974223]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/Sources/App/Models/UsersModel.swift": [1620784567, 746373122]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/Sources/App/configure.swift": [1620785746, 939682116]
-  "/Users/yykj0048/Desktop/Project/Vapor-Examples/Contact/Sources/App/routes.swift": [1620784567, 747124787]
